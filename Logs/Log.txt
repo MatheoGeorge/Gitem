@@ -1,0 +1,11 @@
+commit 50d27d92d333b3cba86a2fa5bcfc33d4963410cc
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:21:44 2024 +0200
+
+    Add today's date to Readme
+
+commit 0d20a2dd376948b23c0b09bb9aea58874311d661
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:21:22 2024 +0200
+
+    Initial commit with project structure and Readme
