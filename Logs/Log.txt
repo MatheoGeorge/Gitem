@@ -1,3 +1,33 @@
+commit ee7775c096933c1ee40b882e69c6cd05fe2a43bf
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:28:56 2024 +0200
+
+    Data
+
+commit cd0749fae6d2d725f03f7109ca5338ff009c3cbc
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:28:26 2024 +0200
+
+    Initial commit with project structure and Readme
+
+commit 66150ec8fe1c133d9abb18d09cc6ae27c1dae28e
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:25:05 2024 +0200
+
+    Add name to Readme
+
+commit 65e8c26e872873fa172e91ca40afee6d147f50ae
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:24:35 2024 +0200
+
+    Add name to Readme
+
+commit dc7a904afa8a9601069554d0c3a2685cdc0fdb49
+Author: Twoje Imię <g2a-69@wp.pl>
+Date:   Sun Sep 15 10:22:11 2024 +0200
+
+    Add Git log to Logs/Log.txt
+
 commit 50d27d92d333b3cba86a2fa5bcfc33d4963410cc
 Author: Twoje Imię <g2a-69@wp.pl>
 Date:   Sun Sep 15 10:21:44 2024 +0200
